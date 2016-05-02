@@ -1,0 +1,58 @@
+[17-Mar-2015 10:04:35 utc] PHP Fatal error:  Call to a member function userdata() on a non-object in /home/k0584003/public_html/mauwhbu/application/controllers/pages.php on line 14
+[17-Mar-2015 15:16:45 utc] PHP Fatal error:  require_once(): Failed opening required '/home/k0584003/public_html/mauwhbu/system/database/drivers/mysql/mysql_driver.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/k0584003/public_html/mauwhbu/system/database/DB.php on line 140
+[17-Mar-2015 15:22:18 utc] PHP Fatal error:  require_once(): Failed opening required '/home/k0584003/public_html/mauwhbu/system/database/drivers/mysql/mysql_driver.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/k0584003/public_html/mauwhbu/system/database/DB.php on line 140
+[17-Mar-2015 15:25:20 utc] PHP Fatal error:  require_once(): Failed opening required '/home/k0584003/public_html/mauwhbu/system/database/drivers/mysql/mysql_driver.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/k0584003/public_html/mauwhbu/system/database/DB.php on line 140
+[17-Mar-2015 15:25:22 utc] PHP Fatal error:  require_once(): Failed opening required '/home/k0584003/public_html/mauwhbu/system/database/drivers/mysql/mysql_driver.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/k0584003/public_html/mauwhbu/system/database/DB.php on line 140
+[17-Mar-2015 16:44:46 utc] PHP Fatal error:  require_once(): Failed opening required '/home/k0584003/public_html/mauwhbu/system/database/drivers/mysql/mysql_driver.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/k0584003/public_html/mauwhbu/system/database/DB.php on line 140
+[17-Mar-2015 18:07:03 utc] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/k0584003/public_html/mauwhbu/application/models/momodel.php on line 103
+[17-Mar-2015 18:07:18 utc] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/k0584003/public_html/mauwhbu/application/models/momodel.php on line 261
+[17-Mar-2015 18:07:26 utc] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/k0584003/public_html/mauwhbu/application/models/momodel.php on line 261
+[17-Mar-2015 18:16:26 utc] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/k0584003/public_html/mauwhbu/application/models/momodel.php on line 103
+[18-Mar-2015 14:58:25 utc] PHP Fatal error:  Call to a member function do_upload() on a non-object in /home/k0584003/public_html/mauwhbu/application/controllers/pages.php on line 887
+[24-Mar-2015 16:55:27 utc] PHP Fatal error:  Call to undefined function refresh() in /home/k0584003/public_html/mauwhbu/application/controllers/pages.php on line 32
+[24-Mar-2015 17:04:34 utc] PHP Fatal error:  Call to undefined function refresh() in /home/k0584003/public_html/mauwhbu/application/controllers/pages.php on line 17
+[24-Mar-2015 17:25:32 utc] PHP Fatal error:  Call to undefined function refresh() in /home/k0584003/public_html/mauwhbu/application/controllers/pages.php on line 33
+[24-Mar-2015 17:29:03 utc] PHP Fatal error:  Call to undefined function refresh() in /home/k0584003/public_html/mauwhbu/application/controllers/pages.php on line 33
+[24-Mar-2015 17:32:01 utc] PHP Fatal error:  Call to undefined function refresh() in /home/k0584003/public_html/mauwhbu/application/controllers/pages.php on line 80
+[24-Mar-2015 17:46:06 utc] PHP Fatal error:  Call to undefined function refresh() in /home/k0584003/public_html/mauwhbu/application/controllers/pages.php on line 32
+[24-Mar-2015 19:00:18 utc] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/k0584003/public_html/mauwhbu/application/controllers/pages.php on line 459
+[26-Mar-2015 01:27:03 utc] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/k0584003/public_html/mauwhbu/application/models/momodel.php on line 310
+[26-Mar-2015 01:27:16 utc] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/k0584003/public_html/mauwhbu/application/models/momodel.php on line 310
+[26-Mar-2015 01:27:30 utc] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/k0584003/public_html/mauwhbu/application/models/momodel.php on line 310
+[30-Mar-2015 02:46:32 utc] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/k0584003/public_html/mauwhbu/application/models/momodel.php on line 338
+[11-Apr-2015 23:18:18 utc] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/k0584003/public_html/mauwhbu/application/models/momodel.php on line 339
+[11-Apr-2015 23:18:22 utc] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/k0584003/public_html/mauwhbu/application/models/momodel.php on line 339
+[11-Apr-2015 23:18:25 utc] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/k0584003/public_html/mauwhbu/application/models/momodel.php on line 339
+[11-Apr-2015 23:18:47 utc] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/k0584003/public_html/mauwhbu/application/models/momodel.php on line 339
+[11-Apr-2015 23:19:27 utc] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/k0584003/public_html/mauwhbu/application/models/momodel.php on line 339
+[11-Apr-2015 23:19:44 utc] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/k0584003/public_html/mauwhbu/application/models/momodel.php on line 339
+[11-Apr-2015 23:21:57 utc] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/k0584003/public_html/mauwhbu/application/models/momodel.php on line 339
+[11-Apr-2015 23:22:02 utc] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/k0584003/public_html/mauwhbu/application/models/momodel.php on line 339
+[11-Apr-2015 23:22:08 utc] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/k0584003/public_html/mauwhbu/application/models/momodel.php on line 339
+[11-Apr-2015 23:23:14 utc] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/k0584003/public_html/mauwhbu/application/models/momodel.php on line 339
+[11-Apr-2015 23:23:54 utc] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/k0584003/public_html/mauwhbu/application/models/momodel.php on line 339
+[11-Apr-2015 23:23:56 utc] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/k0584003/public_html/mauwhbu/application/models/momodel.php on line 339
+[11-Apr-2015 23:25:53 utc] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/k0584003/public_html/mauwhbu/application/models/momodel.php on line 339
+[11-Apr-2015 23:26:57 utc] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/k0584003/public_html/mauwhbu/application/models/momodel.php on line 339
+[11-Apr-2015 23:27:20 utc] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/k0584003/public_html/mauwhbu/application/models/momodel.php on line 339
+[11-Apr-2015 23:29:14 utc] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/k0584003/public_html/mauwhbu/application/models/momodel.php on line 339
+[11-Apr-2015 23:31:45 utc] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/k0584003/public_html/mauwhbu/application/models/momodel.php on line 339
+[11-Apr-2015 23:31:54 utc] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/k0584003/public_html/mauwhbu/application/models/momodel.php on line 339
+[11-Apr-2015 23:32:07 utc] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/k0584003/public_html/mauwhbu/application/models/momodel.php on line 339
+[11-Apr-2015 23:36:40 utc] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/k0584003/public_html/mauwhbu/application/models/momodel.php on line 339
+[11-Apr-2015 23:36:43 utc] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/k0584003/public_html/mauwhbu/application/models/momodel.php on line 339
+[11-Apr-2015 23:36:46 utc] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/k0584003/public_html/mauwhbu/application/models/momodel.php on line 339
+[11-Apr-2015 23:39:14 utc] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/k0584003/public_html/mauwhbu/application/models/momodel.php on line 339
+[11-Apr-2015 23:39:18 utc] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/k0584003/public_html/mauwhbu/application/models/momodel.php on line 339
+[11-Apr-2015 23:40:04 utc] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/k0584003/public_html/mauwhbu/application/models/momodel.php on line 339
+[11-Apr-2015 23:45:12 utc] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/k0584003/public_html/mauwhbu/application/models/momodel.php on line 339
+[11-Apr-2015 23:45:22 utc] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/k0584003/public_html/mauwhbu/application/models/momodel.php on line 339
+[11-Apr-2015 23:45:26 utc] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/k0584003/public_html/mauwhbu/application/models/momodel.php on line 339
+[11-Apr-2015 23:45:33 utc] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/k0584003/public_html/mauwhbu/application/models/momodel.php on line 339
+[11-Apr-2015 23:46:18 utc] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/k0584003/public_html/mauwhbu/application/models/momodel.php on line 339
+[11-Apr-2015 23:50:56 utc] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/k0584003/public_html/mauwhbu/application/controllers/pages.php on line 497
+[11-Apr-2015 23:51:06 utc] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/k0584003/public_html/mauwhbu/application/controllers/pages.php on line 497
+[11-Apr-2015 23:51:09 utc] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/k0584003/public_html/mauwhbu/application/controllers/pages.php on line 497
+[11-Apr-2015 23:51:20 utc] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/k0584003/public_html/mauwhbu/application/controllers/pages.php on line 497
+[11-Apr-2015 23:51:59 utc] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/k0584003/public_html/mauwhbu/application/controllers/pages.php on line 495
+[11-Apr-2015 23:52:01 utc] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/k0584003/public_html/mauwhbu/application/controllers/pages.php on line 495

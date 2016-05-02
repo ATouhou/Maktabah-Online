@@ -1,0 +1,3 @@
+- isi deskripsi di halaman utama
+- isi deskripsi di halaman berita
+- tambah berita pluggin gagal
